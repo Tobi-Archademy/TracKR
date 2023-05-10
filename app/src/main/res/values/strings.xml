@@ -7,7 +7,6 @@
         <item>Average Speed</item>
         <item>Calories Burned</item>
     </string-array>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDkJQXaFeQMcU3w6T2LuKF2riX5CKCsvdA</string>
     <string name="fab">FAB</string>
     <string name="welcome_text">Welcome!\nPlease enter your name and weight.</string>
     <string name="your_name">Your Name</string>
