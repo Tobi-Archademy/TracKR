@@ -13,4 +13,6 @@
     <string name="your_weight">Your Weight</string>
     <string name="continue_text">Continue</string>
     <string name="kg">kg</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
 </resources>
